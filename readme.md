@@ -1,3 +1,9 @@
+# Features
+
+* Implements a Master-Slave architecture.
+* Ability of perform distributed word count using multiple worker processes.
+* Implements robust fault tolerance - respawns worker process during unexpected worker crashes.
+
 # Build
 
 Compile and test
